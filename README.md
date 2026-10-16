@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # ⚙️ In-Memory Subsystem (C++)
